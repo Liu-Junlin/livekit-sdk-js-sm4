@@ -10,3 +10,6 @@ minimumReleaseAgeExclude:
   - '@livekit/*'
   # Renovate security update: vitest@4.1.11
   - vitest@4.1.11
+allowBuilds:
+  esbuild: true
+  unrs-resolver: true
