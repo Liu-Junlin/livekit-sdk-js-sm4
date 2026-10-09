@@ -1,6 +1,6 @@
 {
   "name": "livekit-client-sm4",
-  "version": "2.22.3",
+  "version": "2.22.4",
   "description": "JavaScript/TypeScript client SDK for LiveKit With SM4 Crypto",
   "main": "./dist/livekit-client-sm4.umd.js",
   "unpkg": "./dist/livekit-client-sm4.umd.js",
